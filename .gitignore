@@ -1,7 +1,51 @@
-
+# ==========================
+# OS Files
+# ==========================
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# ==========================
+# Logs
+# ==========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================
+# Environment Files
+# ==========================
+.env
+.env.local
+
+# ==========================
+# Dependency Directories
+# ==========================
+node_modules/
+
+# ==========================
+# IDE & Editor Settings
+# ==========================
 .vscode/
 .idea/
-*.log
-.env
+*.code-workspace
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
+
+# ==========================
+# Build & Cache
+# ==========================
+dist/
+build/
+.cache/
+
+# ==========================
+# System Files
+# ==========================
+*.swp
+*.swo
