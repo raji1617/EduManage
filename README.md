@@ -43,10 +43,7 @@ EduManage/
 ├── js/
 │   └── script.js
 │
-├── assets/
-│   └── images/
-│
-└── screenshots/
+└── screenshots
 
 ---
 
@@ -192,6 +189,21 @@ Start
 
 --
 
+<img width="955" height="444" alt="Dashboard png" src="https://github.com/user-attachments/assets/8ce5c10e-5103-4554-a08e-f47ea879a975" />
+
+<img width="956" height="449" alt="Course png" src="https://github.com/user-attachments/assets/5f310b91-f5e8-4c52-b299-4da4c6429139" />
+
+<img width="954" height="444" alt="Student png" src="https://github.com/user-attachments/assets/8b6604f7-fb72-49d2-9239-3d2ea529f58b" />
+
+<img width="955" height="446" alt="Result png" src="https://github.com/user-attachments/assets/c4427003-9008-4a78-9b95-21b05922866d" />
+
+<img width="960" height="442" alt="View Results png" src="https://github.com/user-attachments/assets/da8fc340-dcc0-4cf0-a29f-e564c3b30264" />
+
+<img width="960" height="447" alt="Logout png" src="https://github.com/user-attachments/assets/8620890c-b46d-4552-90fe-b8a6ff76e65b" />
+
+<img width="960" height="446" alt="Exit png" src="https://github.com/user-attachments/assets/8a55d403-39ff-4267-80fe-fa4df04589ed" />
+
+---
 ✅ **Conclusion**
 
 EduManage is a responsive and user-friendly Education Management System that demonstrates the practical implementation of HTML5, CSS3, and JavaScript. It enables efficient management of courses, students, and examination results through an intuitive dashboard and organized modules. The project showcases front-end web development skills, CRUD operations, dynamic data handling, and responsive design. Future enhancements such as database integration, user authentication, attendance tracking, and report generation can make the system suitable for real-world educational institutions.
